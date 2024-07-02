@@ -1,12 +1,6 @@
 <div align="center">
-  <img height="170" src="https://justpkdev.web.app/justpkdev-favicon.png"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@justpkdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://justpkdev.web.app" target="_blank">
+    <img height="170" src="https://justpkdev.web.app/justpkdev-favicon.png"  />
   </a>
 </div>
 
@@ -75,5 +69,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@justpkdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
 
 ###
