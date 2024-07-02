@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=justpkdev.justpkdev&"  />
-</div>
-
-###
-
 <h1 align="center">hi there, its me <br>JustPkDev</h1>
 
 ###
