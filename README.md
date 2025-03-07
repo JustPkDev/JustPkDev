@@ -3,7 +3,7 @@ A Full stack Web, Mobile, Software And Game Developer
 
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@justpkdev) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@justpkdev) <br/>
 [JustPkDev](https://justpkdev.vercel.app/) 
 
 # 💻 Tech Stack:
